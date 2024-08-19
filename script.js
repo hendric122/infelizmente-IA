@@ -10,25 +10,25 @@ const perguntas = [
         alternativas: [
             {
                 texto: "clicar no botão!",
-                afirmacao: "sla"
+                afirmacao: "o começo"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                texto: "não clicar no botão!",
+                afirmacao: "esperava"
             }           
             
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre elaIA. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
+        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), você descobre que essa tecnologia pode te levar a novas formas de ganhar a vida tanto boas quanto ruins o que você escolhe?",
         alternativas: [
             {
-                texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:"afirmacao"
+                texto:"coisas ruins: criar sites para golpes coisas leves ganhará dinheiro rapido mas terá consequências futuras",
+                afirmacao:"do fim"
             },
             {
-                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                texto: "coisas boas: cria uma forma de ajudar lojas com a contabilidade de algoritimos levará muinto tempo para retorno",
+                afirmacao:"que isso"
             }
         ]
     },
