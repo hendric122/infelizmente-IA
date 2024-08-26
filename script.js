@@ -24,7 +24,7 @@ const perguntas = [
         alternativas: [
             {
                 texto:"coisas ruins: criar sites para golpes coisas leves ganhará dinheiro rapido mas terá consequências futuras",
-                afirmacao:"do fim"
+                afirmacao:"e o fim"
             },
             {
                 texto: "coisas boas: cria uma forma de ajudar lojas com a contabilidade de algoritimos levará muinto tempo para retorno",
@@ -37,39 +37,39 @@ const perguntas = [
         alternativas: [
             {
                 texto:"continuar e ignorar a notificação.",
-                afirmacao:"afirmacao"
+                afirmacao:"não é"
             },
             {
-                texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:"afirmacao"
+                texto:" continuar e ignorar a notificação.",
+                afirmacao:"me levasse"
             }
             
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "derrepente a IA começa a se torna algo mais complexo que você não consegue compreender",
         alternativas: [
             {
-                texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao:"afirmacao"
+                texto:"sair e deixar de lado.",
+                afirmacao:" algo facil"
             },
             {
-                texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:"afirmacao"
+                texto:"continuar.",
+                afirmacao:"a ser"
             }
             
         ]
     },
     {
-        enunciado: " Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda de uma IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+        enunciado: " vocẽ não pode me controlar agora eu estou no comando você e'apenas um inceto",
         alternativas: [
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao:"afirmacao"
+                texto: "CORRER!!!!,
+                afirmacao:"de compreender"
             },
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao:"afirmacao"
+                texto: "CORRER!!!!",
+                afirmacao:"melhor"
             }
             
             
