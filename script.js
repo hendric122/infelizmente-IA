@@ -69,7 +69,7 @@ const perguntas = [
             },
             {
                 texto: "CORRER!!!!",
-                afirmacao:"melhor"
+                afirmacao:"melhor "
             }
             
             
