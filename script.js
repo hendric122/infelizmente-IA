@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "o começo"
             },
             {
-                texto: "não clicar no botão!",
+                texto: "clicar no botão!",
                 afirmacao: "esperava"
             }           
             
@@ -33,10 +33,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Após o uso da IA você recebe uma notificação",
         alternativas: [
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto:"continuar e ignorar a notificação.",
                 afirmacao:"afirmacao"
             },
             {
